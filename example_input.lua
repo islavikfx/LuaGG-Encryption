@@ -9,5 +9,4 @@ gg.clearList()
 
 
 i = 'input'
-if i ~= i then return end
-os.exit('0xff')
+os.exit('0xbf4')
