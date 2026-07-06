@@ -224,7 +224,7 @@ goto await end
 info = '\n\n\n' ..  "str = {\n'"
 info = info .. '** ' .. os.date('%Y/%m/%d') .. ' • ' .. os.date('(%X)') .. "',\n"
 info = info .. "'** Encrypted by @islavikfx'\n"
-info = info .. '}\n\n' .. "gg.toast('Protected by islavikfx.')\n\n"
+info = info .. '}\n\n' .. "gg.toast('Protected by @islavikfx:)')\n\n"
 
 
 sstr = {
@@ -394,7 +394,7 @@ BIN = BIN:gsub(('').char(0x70, 0x9b, 0xf0, 0x7c),function() return ('').char(mat
 
 
 -- // Credits at end.
-BIN = BIN .. '�  ��@ ab �\n�\t*** version: x.x.x [2026/04/02] *** �f\n D�! �\t*** Made by iSlavik *** +��\n� ���'
+BIN = BIN .. '�  ��@ ab �\n�\t*** version: OpenSource [2026/07/07] *** �f\n D�! �\t*** github.com/islavikfx *** +��\n� ���'
 
 
 io.open(data[2] .. '/[load] ' .. data[1]:match('[^/]+$'), 'w+'):write(PACK)
