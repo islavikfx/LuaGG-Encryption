@@ -8,4 +8,8 @@ Encryption tool includes good obfuscation formula and protection against AntiLoa
 
 Youtube video: https://youtu.be/EePJXubyNfE
 
-t.me/islavikhome
+Channel: t.me/islavikhome
+
+Community: discord.gg/VTM7NK7wzp
+
+Telegram & Discord contact: @islavikfx
