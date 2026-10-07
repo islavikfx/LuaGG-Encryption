@@ -6,4 +6,4 @@ Encryption tool (obfuscation) for Lua Game Guardian scripts.
 
 Encryption tool includes good obfuscation formula and protection against AntiLoad, AntiLog, AntiHook, AntiSSTools and AntiLasm.
 
-Telegram & Discord: @jeddy01759
+Telegram & Discord: @islavikfx
